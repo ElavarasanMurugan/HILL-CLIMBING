@@ -116,3 +116,7 @@ Score: 0  Solution :  Artificial Intelligence<br>
 <br>
 
 ![alt text](images/image.png)
+
+<h2>Result :</h2>
+
+The Simple Hill Climbing algorithm incrementally improves a randomly generated solution by applying small mutations and selecting only those changes that reduce the cost function, eventually converging to the optimal solution.
